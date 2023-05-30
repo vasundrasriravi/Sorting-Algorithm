@@ -74,9 +74,9 @@ print(list_of_nums)
 ```
 
 ## Output:
-![Screenshot 2023-05-30 183023](https://github.com/vasundrasriravi/Sorting-Algorithm/assets/119393983/d87ce71f-4077-455f-b7fe-20f8222c73a6)
+![Screenshot 2023-05-30 183918](https://github.com/vasundrasriravi/Sorting-Algorithm/assets/119393983/fe0ff6a3-5703-4a06-96f4-3e4f6eac706f)
+![Screenshot 2023-05-30 183950](https://github.com/vasundrasriravi/Sorting-Algorithm/assets/119393983/65d6bfe2-e704-450a-940d-4b0bfb328d7d)
 
-![Screenshot 2023-05-30 183233](https://github.com/vasundrasriravi/Sorting-Algorithm/assets/119393983/fce9a0f2-c52a-402f-bdbf-7c9b6821eea8)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
